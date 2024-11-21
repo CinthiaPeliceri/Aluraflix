@@ -24,3 +24,20 @@ img {height: 200px;
     overflow-x: auto;
     gap: 10px;
 }
+
+section {
+    padding-left: 20;
+    padding-right: 20;
+}
+
+.chamada {
+    background: rgb(73, 8, 97);
+    padding-bottom: 80;
+    padding-top: 80;
+    display: flex;
+    justify-content: center;
+}
+
+.categoria {
+    
+}
