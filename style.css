@@ -29,15 +29,15 @@ img {height: 200px;
 
 .chamada {
     background: rgb(73, 8, 97);
-    padding-bottom: 80;
-    padding-top: 80;
+    padding-bottom: 80px;
+    padding-top: 80px;
     display: flex;
     justify-content: center;
 }
 
 .categoria {
-    padding-left: 20;
-    padding-right: 20;
+    padding-left: 20px;
+    padding-right: 20px;
     margin-top: 50px;
 }
 
